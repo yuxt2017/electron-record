@@ -2,6 +2,10 @@
 
 > An electron-vue project
 
+<p align="center">
+    <img src="https://github.com/yuxt2017/electron-record/blob/master/rd.png" alt="">
+</p>
+
 #### Build Setup
 
 ``` bash
