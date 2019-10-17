@@ -2,6 +2,8 @@
 
 > An electron-vue project
 
+录屏客户端工具，支持音频，多屏切换
+
 <p align="center">
     <img src="https://github.com/yuxt2017/electron-record/blob/master/rd.png" alt="">
 </p>
