@@ -93,7 +93,6 @@ export default {
       navigator.mediaDevices
         .getUserMedia({ audio: true, video: false })
         .then(stream => {
-          alert(1);
           this.getVedioStream(sourceId, stream);
           stream.onended = () => {
             console.log("Micro audio ended.");
