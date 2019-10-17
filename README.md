@@ -14,3 +14,4 @@ npm run dev
 # build electron application for production
 npm run build
 
+https://github.com/yuxt2017/electron-record/blob/master/rd.png
